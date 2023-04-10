@@ -34,3 +34,9 @@ build/
 
 ### React ###
 src/frontend/node_modules/
+
+### Maven ###
+target/
+pom.xml.tag
+maven-wrapper.jar
+maven-wrapper.properties
