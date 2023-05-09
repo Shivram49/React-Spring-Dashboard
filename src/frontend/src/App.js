@@ -2,7 +2,7 @@
 import { TeamPage } from './pages/TeamPage';
 import { BrowserRouter as Router,Routes, Route } from 'react-router-dom';
 
-import './App.css';
+import './App.scss';
 import { MatchPage } from './pages/MatchPage';
 
 function App() {
